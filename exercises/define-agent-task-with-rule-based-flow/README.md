@@ -1,7 +1,26 @@
 
 # Part 4: Define Agent Task with Rule-based flow
 
-1. Create custom topics
-2. Adding nodes to the flow
-3. Define Agent flow
-4. Test Agent with Rule-based flow
+## Topic: Claim Expense 1
+
+1. [Create custom topics](exercises/define-agent-task-with-rule-based-flow/1-create-custom-topics/README.md)
+2. [Modifying Topic Nodes](exercises/define-agent-task-with-rule-based-flow/2-modifying-topic-nodes/README.md)
+3. [Create and using variables](exercises/define-agent-task-with-rule-based-flow/3-create-and-using-variables/README.md)
+
+
+## Topic: Claim Expense 2
+
+
+
+
+## Topic: Claim Expense 3
+
+
+
+
+## Topic: Claim Expense 4
+
+
+
+
+## Topic: Claim Expense 5 
