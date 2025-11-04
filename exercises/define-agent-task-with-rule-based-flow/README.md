@@ -8,19 +8,3 @@
 3. [Create and using variables](exercises/define-agent-task-with-rule-based-flow/3-create-and-using-variables/README.md)
 
 
-## Topic: Claim Expense 2
-
-
-
-
-## Topic: Claim Expense 3
-
-
-
-
-## Topic: Claim Expense 4
-
-
-
-
-## Topic: Claim Expense 5 
