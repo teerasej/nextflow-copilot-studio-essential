@@ -19,15 +19,21 @@
 ![Image](Snagit_Step_Image001.png)<br>
 #### 2. จากรายการ เลือก Add a tool \> New prompt<br>
 ![Image](Snagit_Step_Image002.png)<br>
-#### 3. หลังจากหน้าต่าง prompt เปิดขึ้นมา ให้แก้ไขชื่อเป็น Drafting Email \[name\]<br>
+#### 3. หลังจากหน้าต่าง prompt เปิดขึ้นมา ให้แก้ไขชื่อเป็น **[ชื่อเรา] Drafting Email**<br>
+```
+[ชื่อเรา] Drafting Email
+```
 ![Image](Snagit_Step_Image003.png)<br>
-#### 4. คลิกลงไปในช่อง instruction \> get started with copilot และใส่ข้อความว่า Drag from "Draft a short email to finance department to claim expense from given expense's detail”<br>
+#### 4. คลิกลงไปในช่อง instruction > get started with copilot และใส่ข้อความว่า "Draft a short email to finance department to claim expense from given expense's detail”<br>
+```
+Draft a short email to finance department to claim expense from given expense's detail
+```
 ![Image](Snagit_Step_Image004.png)<br>
 #### 5. กดปุ่มส่ง เพื่อให้ Copilot ทำการร่าง prompt ที่ใช้ในการทำงานกับข้อมูลที่ถูกส่งเข้ามาที่ node นี้<br>
 ![Image](Snagit_Step_Image005.png)<br>
 #### 6. ตรวจสอบข้อความ prompt และแก้ไขถ้าต้องการ เสร็จแล้วกดปุ่ม  "Keep it"<br>
 ![Image](Snagit_Step_Image006.png)<br>
-#### 7. จากตัวอย่าง prompt ควรจะมี input ถูกสร้างขึ้นมาตัวหนึ่ง \(นี่คือจุดที่เราสามารถแทรกค่าตัวแปร เข้ามาใน prompt ก่อนที่ node จะส่งไปให้ model ประมวลผลได้\) ให้คลิกที่ชื่อ input <br>
+#### 7. จากตัวอย่าง prompt ควรจะมี input ถูกสร้างขึ้นมาตัวหนึ่ง (นี่คือจุดที่เราสามารถแทรกค่าตัวแปร เข้ามาใน prompt ก่อนที่ node จะส่งไปให้ model ประมวลผลได้) ให้คลิกที่ชื่อ input <br>
 ![Image](Snagit_Step_Image007.png)<br>
 #### 8. จากหน้าต่างที่เปิดขึ้นมา ให้เราใส่ข้อความ “เบิกค่าเที่ยวดูงานญี่ปุ่น 100 USD” และกดปุ่ม close<br>
 ```
