@@ -1,5 +1,5 @@
 
-# Part 3: Publish my agent to Live!
+# Part 2: Publish my agent to Live!
 
 ## ขั้นตอน
 
